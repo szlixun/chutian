@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ECF7BFDC-4BE3-4541-8AF9-38C95DACE2B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PES.DataModel</RootNamespace>
+    <AssemblyName>PES.DataModel</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.1.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CT.ERP.Client\Reference\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataModel\Utility\Extends\DataReaderExtend.cs" />
+    <Compile Include="DataModel\Utility\Extends\DataTableExtend.cs" />
+    <Compile Include="DataModel\Utility\Extends\FuncExtend.cs" />
+    <Compile Include="DataModel\Utility\Extends\ObjectExtend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataModel\Utility\Extends\StringExtend.cs" />
+    <Compile Include="DataModel\Utility\Helpers\ConvertHelper.cs" />
+    <Compile Include="DataModel\Utility\Helpers\DbAccessHelper.cs" />
+    <Compile Include="DataModel\Utility\Helpers\DbHelper.cs" />
+    <Compile Include="DataModel\Utility\Helpers\DbMsSqlHelper.cs" />
+    <Compile Include="DataModel\Utility\Helpers\DbMySqlHelper.cs" />
+    <Compile Include="DataModel\Utility\IoC\ObjectContainer.cs" />
+    <Compile Include="DataModel\Utility\IoC\TinyIoC\TinyIoC.cs" />
+    <Compile Include="DataModel\Utility\IoC\TinyIoC\TinyObjectContainer.cs" />
+    <Compile Include="DataModel\Utility\SafeDictionary.cs" />
+    <Compile Include="DataModel\Core\AbstractDbAccess.cs" />
+    <Compile Include="DataModel\Core\AbstractProvider.cs" />
+    <Compile Include="DataModel\Core\AbstractTranslator.cs" />
+    <Compile Include="DataModel\Core\AbstractVisitor.cs" />
+    <Compile Include="DataModel\Core\DMCommand.cs" />
+    <Compile Include="DataModel\Core\DMContext.cs" />
+    <Compile Include="DataModel\Core\DMModify.cs" />
+    <Compile Include="DataModel\Core\DMQuery.cs" />
+    <Compile Include="DataModel\Core\DMRepository.cs" />
+    <Compile Include="DataModel\Core\DMTransaction.cs" />
+    <Compile Include="DataModel\Core\DMTSqlCommand.cs" />
+    <Compile Include="DataModel\Core\DMUnitOfWork.cs" />
+    <Compile Include="DataModel\DALayer\AbstractDAL.cs" />
+    <Compile Include="DataModel\DALayer\BaseDAL.cs" />
+    <Compile Include="DataModel\Provider\Access\AccessDbProvider.cs" />
+    <Compile Include="DataModel\Provider\Access\AccessTSQLTranslator.cs" />
+    <Compile Include="DataModel\Provider\MsSql\MsSqlDbProvider.cs" />
+    <Compile Include="DataModel\Provider\MsSql\MsSqlTSQLTranslator.cs" />
+    <Compile Include="DataModel\Provider\MySql\MySqlDbProvider.cs" />
+    <Compile Include="DataModel\Provider\MySql\MySqlTSQLTranslator.cs" />
+    <Compile Include="DataModel\Repository\AbstractRepository.cs" />
+    <Compile Include="DataModel\Repository\BaseRepository.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMAttribute.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMCommon.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMConfiguration.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMConnectionString.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMObjectContainer.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMProviderType.cs" />
+    <Compile Include="DataModel\Seedwork\Common\DMTableMapping.cs" />
+    <Compile Include="DataModel\Seedwork\Interface\IAbstractRepository.cs" />
+    <Compile Include="DataModel\Seedwork\Interface\IBaseRepository.cs" />
+    <Compile Include="DataModel\Seedwork\Interface\IDbAccess.cs" />
+    <Compile Include="DataModel\Seedwork\Interface\IDMTransaction.cs" />
+    <Compile Include="DataModel\Seedwork\Interface\ITransaction.cs" />
+    <Compile Include="DataModel\Seedwork\Interface\IUnitOfWork.cs" />
+    <Compile Include="DataModel\Seedwork\Spec\CSpecification.cs" />
+    <Compile Include="DataModel\Seedwork\Spec\Specification.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

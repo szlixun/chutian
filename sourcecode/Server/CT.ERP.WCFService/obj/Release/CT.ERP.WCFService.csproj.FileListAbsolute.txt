@@ -1,0 +1,12 @@
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.WCFService.dll.config
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.WCFService.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.WCFService.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.Bussiness.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\MySql.Data.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\PES.DataModel.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.Bussiness.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\bin\Release\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\obj\Release\CT.ERP.WCFService.csprojResolveAssemblyReference.cache
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\obj\Release\CT.ERP.WCFService.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.WCFService\obj\Release\CT.ERP.WCFService.pdb

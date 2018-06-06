@@ -1,0 +1,7 @@
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Release\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Release\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Release\MySql.Data.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Release\PES.DataModel.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\obj\Release\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\obj\Release\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\obj\Release\CT.ERP.Entity.csprojResolveAssemblyReference.cache

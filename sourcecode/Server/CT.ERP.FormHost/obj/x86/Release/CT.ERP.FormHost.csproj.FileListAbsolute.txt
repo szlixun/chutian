@@ -1,0 +1,17 @@
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.FormHost.exe.config
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.FormHost.exe
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.FormHost.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.WCFService.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\MySql.Data.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\PES.DataModel.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.Bussiness.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.WCFService.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\bin\Release\CT.ERP.Bussiness.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\obj\x86\Release\CT.ERP.FormHost.csprojResolveAssemblyReference.cache
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\obj\x86\Release\CT.ERP.FormHost.Form1.resources
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\obj\x86\Release\CT.ERP.FormHost.Properties.Resources.resources
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\obj\x86\Release\CT.ERP.FormHost.csproj.GenerateResource.Cache
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\obj\x86\Release\CT.ERP.FormHost.exe
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.FormHost\obj\x86\Release\CT.ERP.FormHost.pdb

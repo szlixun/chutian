@@ -1,0 +1,13 @@
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\bin\Debug\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\bin\Debug\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\bin\Debug\MySql.Data.dll
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\bin\Debug\PES.DataModel.dll
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\obj\Debug\CT.ERP.Entity.csprojResolveAssemblyReference.cache
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\obj\Debug\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\CT.ERP.Entity\CT.ERP.Entity\obj\Debug\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Debug\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Debug\CT.ERP.Entity.pdb
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Debug\MySql.Data.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\bin\Debug\PES.DataModel.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\obj\Debug\CT.ERP.Entity.dll
+D:\lixun_workspace\others\chutian\sourcecode\Server\CT.ERP.Entity\obj\Debug\CT.ERP.Entity.pdb
